@@ -1,0 +1,1 @@
+<view class="my-card"><text>我的内容</text><my-tabbar vue-id="4caae3c8-1" selected="{{selected}}" bind:__l="__l"></my-tabbar></view>
